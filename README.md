@@ -27,4 +27,3 @@ Contact: longmire.jd@gmail.com
 
 Questions? Thoughts? Open an Issue or reach out directly.
 
-This keeps it simple, direct, and to the point, since you’re only sharing PDFs for now. Let me know if you want any tweaks!
